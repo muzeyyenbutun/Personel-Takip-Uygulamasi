@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Personel Takip", "Personel Takip\Personel Takip.csproj", "{09B054D8-F98F-4913-BD0A-B8B78596F278}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Resimler", "Resimler", "{05E2DC3B-5B91-4BD8-8E7F-073A5E657F86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09B054D8-F98F-4913-BD0A-B8B78596F278}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09B054D8-F98F-4913-BD0A-B8B78596F278}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09B054D8-F98F-4913-BD0A-B8B78596F278}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09B054D8-F98F-4913-BD0A-B8B78596F278}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98B21156-7DEE-4F17-9329-D0931BA6140F}
+	EndGlobalSection
+EndGlobal
